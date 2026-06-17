@@ -17,9 +17,9 @@
 
 - **Frontend** &nbsp;— React · JavaScript · HTML · CSS
 - **Backend** &nbsp;&nbsp;— Node.js · Express
-- **Database** — MongoDB
-- **Lang** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Python
-- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Git · GitHub · Docker
+- **Database** — MongoDB · SQL
+- **Lang** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Python · Java
+- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Git · GitHub · Docke
 
 <br/>
 
