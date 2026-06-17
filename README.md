@@ -1,5 +1,7 @@
 <h1 align="left">Hey there! I'm Amitesh 👋</h1>
 
+![Views](https://komarev.com/ghpvc/?username=Amitesh-3114&color=blue&style=flat-square&label=views)
+
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🧑‍💻 About Me
@@ -16,16 +18,16 @@
 
 - **Frontend** &nbsp;— React · JavaScript · HTML · CSS
 - **Backend** &nbsp;&nbsp;— Node.js · Express
-- **Database** — MongoDB · SQL
-- **Lang** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Python · Java
+- **Database** — MongoDB
+- **Lang** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Python
 - **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Git · GitHub · Docker
 
 <br/>
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitesh-bhaskar-b09b2b259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiteshbhaskar1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 
 <br/><br/>
 
