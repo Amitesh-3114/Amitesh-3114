@@ -1,6 +1,5 @@
 <h1 align="left">Hey there! I'm Amitesh 👋</h1>
 
-![Views](https://komarev.com/ghpvc/?username=Amitesh-3114&color=blue&style=flat-square&label=views)
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
